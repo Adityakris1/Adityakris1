@@ -1,71 +1,45 @@
-Hi there! 👋 I'm Aditya Krishna
-Welcome to my corner of the internet—a place where software development meets product strategy, and creativity thrives in both code and collaboration.
+👋 Hi, I’m Aditya Krishna
+🚀 About Me
+🎓 B.Tech CS @ KIIT University
+🌐 Full Stack Developer | ☁️ AWS Cloud Explorer
+🧑💻 Product Builder | 🤝 Team Leader
+🏆 INSPIRE Scholar | 🥈 IIT Kharagpur Dramatics (Spring Fest)
 
-🚀 Who Am I?
-I'm a passionate B.Tech Computer Science student at KIIT, Bhubaneswar, turning ideas into impactful products. I love building robust tech from the ground up, leading dynamic teams, and driving projects to the finish line. Whether writing elegant code, creating data-driven solutions, or coordinating agile teams, I bring curiosity and energy to every challenge.
+🛠️ Tech Stack
+💻 C	☕️ Java	🐍 Python	🌐 HTML	🎨 CSS	🛠️ JavaScript	🌲 NodeJs	☁️ AWS	🗄️ SQL/MySQL/Oracle
+<!-- For a modern look, add shields.io badges below (copy-paste this block directly): -->
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor.shields.io/badge/Java-007396?style=flat-square&logo=java](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logo://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logo](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedot](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logo://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white
 
-💡 What Drives Me?
-Problem Solving: I thrive on tackling complex problems—be it through intelligent automation, scalable cloud solutions, or innovative UI design.
+🕵️ Fake Reviews Detector
+↳ Chrome Extension, ML, Python, Flask
+↳ 85% accuracy, 40,000+ reviews analyzed
 
-Leadership: From spearheading AI projects to leading a dramatics society to award-winning performances, I’m at my best when collaborating, organizing, and inspiring teams.
+🎹 Hand Tracking MIDI
+↳ OpenCV, PyGame, CVZone
+↳ Play music with just your ✋ gestures
 
-Continuous Learning: Always exploring new tech, frameworks, and leadership strategies—because in tech, growth never stops!
+☁️ Virtual AWS Internship
+↳ Built/Automated scalable infra on AWS CLI & SDK
 
-🛠️ Tech & Tools
-Languages: C, Java, Python, HTML, CSS, JavaScript
+🌟 Achievements
+🏅 INSPIRE Award Scholar (₹10K, National Innovation)
+🏆 Led 20-member dramatics team to 🥈 at IIT KGP Fest
 
-Frameworks & Tools: Node.js, Flask, OpenCV, PyGame, Postman API, Git, Jira
+🏅 Certifications
+Postman API 📮
 
-Cloud: AWS (EC2, S3, Lambda, IAM)
+LinkedIn/Microsoft Essentials: GenAI, Data Analysis, Software Dev 🎓
 
-Databases: SQL, MySQL, Oracle
+Corporate Responsibility – London School of Business 🌱
 
-Other Skills: Agile/Scrum, stakeholder communications, project planning
+🌍 Languages
+🇮🇳 English, Hindi, Maithili, Bengali, Marathi
 
-🌟 Achievements & Awards
-🎓 INSPIRE Award Scholar
-Received national recognition and funding for science innovation by the Department of Science & Technology, Govt. of India.
+🤝 Connect
+📧 adityakrishna038@gmail.com
+📍 Bengaluru, India
+[LinkedIn] | [GitHub] | [Portfolio]
 
-🏆 Leadership in Action
-Led a 20-member team to 2nd place at IIT Kharagpur’s Spring Fest; managed successful tech and social good projects.
+⚡ Turning ideas into impact with code, cloud, and creativity!
 
-🔥 Signature Projects
-🔗 Fake Reviews Detection (2025)
-Built a machine learning-powered Chrome Extension detecting fake e-commerce reviews with 85% accuracy.
-
-Managed a cross-functional team, streamlined stakeholder communication, and analyzed 40,000+ reviews.
-
-🎹 Hand Tracking MIDI Chord System (2025)
-Designed a MIDI synthesizer controlled by real-time hand gestures using OpenCV and CVZone.
-
-Delivered a seamless multi-threaded musical experience, blending AI with creativity.
-
-☁️ Virtual AWS Internship (2024)
-Designed scalable AWS infrastructures and automated workflows with CLI and SDKs.
-
-Deployed secure and robust solutions to real-world cloud challenges.
-
-📚 Certifications
-Postman API
-
-Career Essentials (Software Development, Generative AI, Data Analysis – Microsoft/LinkedIn)
-
-Fundamentals of Corporate Responsibility (London School Of Business)
-
-🤝 Beyond Tech
-Dramatics Leader: Orchestrated large-scale creative performances, fostering teamwork and innovation.
-
-Community Volunteer: Organized outreach programs with KIIT NSS & Youth Red Cross.
-
-Polyglot: Fluent in English, Hindi, Maithili, Bengali, and Marathi.
-
-📫 Let's Connect
-Email: adityakrishna038@gmail.com
-
-Bengaluru, India
-
-LinkedIn | GitHub | Portfolio
-
-✨ Here’s to building, learning, and leading—one project at a time.
-“Great products and great teams share the same DNA: innovation, collaboration, and relentless curiosity.”
-Check out my repositories below to see how ideas become code, and code becomes impact!
+Browse my repositories below!
